@@ -1,2 +1,2 @@
 print("=)")
-print("+____* login")
+print("+____* git z1")
